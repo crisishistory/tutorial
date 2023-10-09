@@ -1,11 +1,10 @@
-# Welcome to your Jupyter Book
+# Hi Terrence and Rose!
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
-
-Check out the content pages bundled with this sample book to see more.
+I've put together a mini-book of notes from our sessions where I get you up to speed on various tech topics.
 
 ```{tableofcontents}
 ```
+
+This is also a nice, small GitHub repository where you can practice editing Markdown and Jupyter Notebooks privately with me if you'd like. 
+
+Here, book content is structured with JupyterBook. You can see examples of the major file types, as well as some sample content. Check out [the Jupyter Book documentation](https://jupyterbook.org) for more information. 
