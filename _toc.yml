@@ -5,9 +5,6 @@ format: jb-book
 root: intro
 chapters:
 - file: 01-first-steps
-- file: 02-github
+- file: 02-github-markdown
 - file: 03-kaggle
 - file: 04-terminal
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
