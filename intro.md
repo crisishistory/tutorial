@@ -1,10 +1,18 @@
-# Hi Terrence and Rose!
+# Welcome, Community Historians!
 
-I've put together a mini-book of notes from our sessions where I get you up to speed on various tech topics.
+You're here because:
+
+* You're a community historian who wants to learn more about technology
+* You record and share stories about your community as audio, video, or text
+* You want to learn how to use software automation and AI to help you with your work
+
+I've put together a mini-book of notes to help get you up to speed on various tech topics.
 
 ```{tableofcontents}
 ```
 
-This is also a nice, small GitHub repository where you can practice editing Markdown and Jupyter Notebooks privately with me if you'd like. 
+If you get stuck, or have questions, please reach out in the History Science Lab Discord server: https://discord.gg/9HcmAQ2hHz
 
-Here, book content is structured with JupyterBook. You can see examples of the major file types, as well as some sample content. Check out [the Jupyter Book documentation](https://jupyterbook.org) for more information. 
+I'm happy to help!
+
+
