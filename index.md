@@ -11,7 +11,7 @@ I've put together a mini-book of notes to help get you up to speed on various te
 ```{tableofcontents}
 ```
 
-If you get stuck, or have questions, please reach out in the History Science Lab Discord server: https://discord.gg/9HcmAQ2hHz
+If you get stuck, or have questions, please reach out in the Crisis History Discord server: https://discord.gg/9HcmAQ2hHz
 
 I'm happy to help!
 
